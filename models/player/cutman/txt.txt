@@ -1,0 +1,18 @@
+Cut Man     V-1.2
+
+Cut Man is a Rockman(Megaman) character.
+
+2016
+v1.2
+SC5.0 animation
+model fixed.
+reskin.
+
+2007-2008
+v1.1
+SC4.0B animation
+model fixed.
+v1.02
+texture bmp fixed.
+v1.0
+tenuki

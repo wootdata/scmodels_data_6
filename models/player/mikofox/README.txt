@@ -1,0 +1,20 @@
+Miko Fox Model for Unreal Tournament 2004 and soon once again for Half life (Sven coop mod)
+
+This little Foxette is uses a moddified little Eris body as her base and a whole new head and tail for the rest.
+
+Credit where credit is due
+
+Skin - Miko, Toadie , -Tj- (Uvmap)
+Original Body Model - Hide
+Body editing and reconfiguration - Miko
+Tail - Miko
+New Fox head model - -Tj-
+Original Character contruction - (Tjpet2 "Miko's Mate)
+
+Do not moddify this model without proper promission.
+Ask hide on promission on modifying the little eris model.
+
+Is not to be destributed by anyone unless you contact me (Miko at ordos10191@msn.com)
+
+
+Thank you and have a nice day.
