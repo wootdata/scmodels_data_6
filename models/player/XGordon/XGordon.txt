@@ -1,3 +1,0 @@
-A slightly modified original Half-Life cinematic model
-
-UPD: renamed textures
