@@ -1,0 +1,63 @@
+
+---------------------------------
+Sora-Kingdom Hearts 2 - Release
+---------------------------------
+Model:enix
+Skin:enix
+Custom Animations:enix
+---------------------------------
+
+So yea...I think you get the point. I did this
+all froms scratch and it was all done by yours truely.
+
+---------------------------------
+Installation:
+
+Ok, here is the fun part. There are two options in this
+release. You can either use the normal KH2 style Sora
+model with the single keyblade and single slashing ani-
+mations or use the duel wielding (two keyblades) Valor
+form Sora model with a seperate set of katana animations.
+To use the Normal form just drag and drop the folder named
+"Sora" into the players folder in the TS models directory.
+
+("C:\Program Files\Steam\SteamApps\*YOURSTEAMID*\half-life\ts\models\player")
+
+Then drag and drop the files in the folder named "Keyblade"
+directly to the models folder. If you plan on switching back
+to the standard katana make sure you back it up somewhere.
+
+Now, the second option is to use the new "valor" form inwhich
+Sora has a red outfit with some cool designs and wields two
+keyblades instead of one.
+
+To use this option simply drag and drop the folder named
+"Sora_Valor" into the players folder, then drag and drop
+the files from the folder named "Duel_Keyblades" directly
+into the models folder, and again, make sure to back up your
+old katana model files just incase you want to switch back to
+them.
+
+Once ingame, just click "customize" from the TS main menu,
+then a box will appear and in the multiplayer tab, click the
+player model drop-down box and choose either "Sora" or
+"Sora_Valor". Then click apply and you can now play as Sora.
+
+---------------------------------
+Editing:
+
+I do not care at all if you edit any of my models, but if
+you do edit them and plan to release your edit, then please
+make sure you give me proper credit for my work, I put too
+much work into these projects for someone to come along,
+grab my model, edit it and release it somewhere else claiming
+its theirs.
+---------------------------------
+Well, thanks for downloading my model, I hope you enjoy it.
+
+---------------------------------
+Check out my other projects:
+---------------------------------
+
+http://www.modelpost.org/profile.php?user=enix
+

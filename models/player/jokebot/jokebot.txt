@@ -1,0 +1,17 @@
+Type: 		Halflife Multiplayer Pluggin Model
+
+Name: 		JoKeBoT ... 
+
+Release Date: 	06/12/1999
+
+Author:		M Propre    
+
+E-Mail:		M-Propre@Wanadoo.fr
+
+Files:		JoKeBoT.mdl, JoKeBoT.bmp, JoKeBoT.txt 			
+
+Instructions:	Create a folder  Half-life\valve\models\player\JoKeBoT
+                and copy all the file in it.
+
+Note		This is my firts complete model (with some originals movements)
+		Look at the crazy moves he perform! ( run2, long-Jump, head-shoot and deadsitting ...)
