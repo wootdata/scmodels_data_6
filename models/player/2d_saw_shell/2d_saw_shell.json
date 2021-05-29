@@ -1,1 +1,45 @@
-{"seq_groups": 1, "hash": "00ed10d2452a8fb81f8df76cc3bd51be", "tri_count": "1"}
+{
+	"attachments": [],
+	"bodies": [
+		{
+			"models": [
+				{
+					"name": "saw_shell",
+					"polys": 1,
+					"verts": 3
+				}
+			],
+			"name": "studio"
+		}
+	],
+	"controllers": [],
+	"events": [],
+	"id": 1414743113,
+	"md5": "00ed10d2452a8fb81f8df76cc3bd51be",
+	"name": "saw_shell.mdl",
+	"seq_groups": "1",
+	"sequences": [
+		{
+			"fps": 30.000000,
+			"frames": 101,
+			"name": "shell"
+		}
+	],
+	"skeleton": [
+		{
+			"name": "saw_round",
+			"parent": -1
+		}
+	],
+	"skins": 1,
+	"t_model": false,
+	"textures": [
+		{
+			"flags": 0,
+			"height": 87,
+			"name": "saw_round.bmp",
+			"width": 20
+		}
+	],
+	"version": 10
+}

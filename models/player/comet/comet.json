@@ -1,1 +1,516 @@
-{"seq_groups": 1, "hash": "6ae9384f7f630d87016a2621694978c1", "tri_count": "2142", "events": [{"seq": "0", "frame": "0", "file": "common/npc_step1.wav"}, {"seq": "0", "frame": "0", "file": "common/npc_step3.wav"}, {"seq": "1", "frame": "0", "file": "common/npc_step1.wav"}, {"seq": "1", "frame": "8", "file": "common/npc_step3.wav"}, {"seq": "2", "frame": "0", "file": "common/npc_step2.wav"}, {"seq": "2", "frame": "9", "file": "common/npc_step4.wav"}, {"seq": "3", "frame": "0", "file": "common/npc_step2.wav"}, {"seq": "3", "frame": "9", "file": "common/npc_step4.wav"}, {"seq": "4", "frame": "0", "file": "common/npc_step2.wav"}, {"seq": "4", "frame": "9", "file": "common/npc_step4.wav"}, {"seq": "7", "frame": "10", "file": "hostage/hos7.wav"}, {"seq": "9", "frame": "7", "file": "hostage/hos6.wav"}, {"seq": "10", "frame": "7", "file": "hostage/hos6.wav"}, {"seq": "11", "frame": "10", "file": "hostage/hos7.wav"}, {"seq": "12", "frame": "10", "file": "hostage/hos7.wav"}]}
+{
+	"attachments": [
+		{
+			"bone": 10,
+			"name": "",
+			"type": 0
+		}, 
+		{
+			"bone": 15,
+			"name": "",
+			"type": 0
+		}
+	],
+	"bodies": [
+		{
+			"models": [
+				{
+					"name": "comet",
+					"polys": 2142,
+					"verts": 1146
+				}
+			],
+			"name": "studio"
+		}
+	],
+	"controllers": [
+		{
+			"bone": 6,
+			"end": 60.000000,
+			"index": 0,
+			"rest": 0,
+			"start": -60.000000,
+			"type": 8
+		}
+	],
+	"events": [
+		{
+			"event": 1004,
+			"frame": 0,
+			"options": "common/npc_step1.wav",
+			"sequence": 0,
+			"type": 0
+		}, 
+		{
+			"event": 1004,
+			"frame": 0,
+			"options": "common/npc_step3.wav",
+			"sequence": 0,
+			"type": 0
+		}, 
+		{
+			"event": 1004,
+			"frame": 0,
+			"options": "common/npc_step1.wav",
+			"sequence": 1,
+			"type": 0
+		}, 
+		{
+			"event": 1004,
+			"frame": 8,
+			"options": "common/npc_step3.wav",
+			"sequence": 1,
+			"type": 0
+		}, 
+		{
+			"event": 1004,
+			"frame": 0,
+			"options": "common/npc_step2.wav",
+			"sequence": 2,
+			"type": 0
+		}, 
+		{
+			"event": 1004,
+			"frame": 9,
+			"options": "common/npc_step4.wav",
+			"sequence": 2,
+			"type": 0
+		}, 
+		{
+			"event": 1004,
+			"frame": 0,
+			"options": "common/npc_step2.wav",
+			"sequence": 3,
+			"type": 0
+		}, 
+		{
+			"event": 1004,
+			"frame": 9,
+			"options": "common/npc_step4.wav",
+			"sequence": 3,
+			"type": 0
+		}, 
+		{
+			"event": 1004,
+			"frame": 0,
+			"options": "common/npc_step2.wav",
+			"sequence": 4,
+			"type": 0
+		}, 
+		{
+			"event": 1004,
+			"frame": 9,
+			"options": "common/npc_step4.wav",
+			"sequence": 4,
+			"type": 0
+		}, 
+		{
+			"event": 5004,
+			"frame": 10,
+			"options": "hostage/hos7.wav",
+			"sequence": 7,
+			"type": 0
+		}, 
+		{
+			"event": 5004,
+			"frame": 7,
+			"options": "hostage/hos6.wav",
+			"sequence": 9,
+			"type": 0
+		}, 
+		{
+			"event": 5004,
+			"frame": 7,
+			"options": "hostage/hos6.wav",
+			"sequence": 10,
+			"type": 0
+		}, 
+		{
+			"event": 5004,
+			"frame": 10,
+			"options": "hostage/hos7.wav",
+			"sequence": 11,
+			"type": 0
+		}, 
+		{
+			"event": 5004,
+			"frame": 10,
+			"options": "hostage/hos7.wav",
+			"sequence": 12,
+			"type": 0
+		}, 
+		{
+			"event": 2,
+			"frame": 19,
+			"options": "",
+			"sequence": 28,
+			"type": 0
+		}, 
+		{
+			"event": 3,
+			"frame": 11,
+			"options": "",
+			"sequence": 29,
+			"type": 0
+		}, 
+		{
+			"event": 1,
+			"frame": 17,
+			"options": "",
+			"sequence": 30,
+			"type": 0
+		}, 
+		{
+			"event": 2001,
+			"frame": 8,
+			"options": "",
+			"sequence": 31,
+			"type": 0
+		}, 
+		{
+			"event": 2001,
+			"frame": 22,
+			"options": "",
+			"sequence": 32,
+			"type": 0
+		}, 
+		{
+			"event": 2001,
+			"frame": 11,
+			"options": "",
+			"sequence": 33,
+			"type": 0
+		}, 
+		{
+			"event": 2001,
+			"frame": 8,
+			"options": "",
+			"sequence": 34,
+			"type": 0
+		}, 
+		{
+			"event": 2001,
+			"frame": 18,
+			"options": "",
+			"sequence": 35,
+			"type": 0
+		}, 
+		{
+			"event": 2001,
+			"frame": 16,
+			"options": "",
+			"sequence": 36,
+			"type": 0
+		}
+	],
+	"id": 1414743113,
+	"md5": "6ae9384f7f630d87016a2621694978c1",
+	"name": "E:\\game\\half_life\\tool\\model\\comet\\pack\\comet.mdl",
+	"seq_groups": "1",
+	"sequences": [
+		{
+			"fps": 20.000000,
+			"frames": 24,
+			"name": "walk"
+		}, 
+		{
+			"fps": 20.000000,
+			"frames": 24,
+			"name": "walk_scared"
+		}, 
+		{
+			"fps": 30.000000,
+			"frames": 23,
+			"name": "run"
+		}, 
+		{
+			"fps": 30.000000,
+			"frames": 23,
+			"name": "run1"
+		}, 
+		{
+			"fps": 30.000000,
+			"frames": 23,
+			"name": "run2"
+		}, 
+		{
+			"fps": 10.000000,
+			"frames": 61,
+			"name": "180_Left"
+		}, 
+		{
+			"fps": 10.000000,
+			"frames": 61,
+			"name": "180_Right"
+		}, 
+		{
+			"fps": 10.000000,
+			"frames": 61,
+			"name": "flinch"
+		}, 
+		{
+			"fps": 10.000000,
+			"frames": 61,
+			"name": "flinch1"
+		}, 
+		{
+			"fps": 10.000000,
+			"frames": 61,
+			"name": "laflinch"
+		}, 
+		{
+			"fps": 10.000000,
+			"frames": 61,
+			"name": "raflinch"
+		}, 
+		{
+			"fps": 10.000000,
+			"frames": 61,
+			"name": "llflinch"
+		}, 
+		{
+			"fps": 10.000000,
+			"frames": 61,
+			"name": "rlflinch"
+		}, 
+		{
+			"fps": 10.000000,
+			"frames": 61,
+			"name": "idle1"
+		}, 
+		{
+			"fps": 24.000000,
+			"frames": 401,
+			"name": "idle3"
+		}, 
+		{
+			"fps": 10.000000,
+			"frames": 61,
+			"name": "idle4"
+		}, 
+		{
+			"fps": 10.000000,
+			"frames": 61,
+			"name": "idle5"
+		}, 
+		{
+			"fps": 10.000000,
+			"frames": 61,
+			"name": "idle6"
+		}, 
+		{
+			"fps": 10.000000,
+			"frames": 61,
+			"name": "idle7"
+		}, 
+		{
+			"fps": 10.000000,
+			"frames": 61,
+			"name": "crouchstand"
+		}, 
+		{
+			"fps": 10.000000,
+			"frames": 61,
+			"name": "crouch_idle"
+		}, 
+		{
+			"fps": 10.000000,
+			"frames": 61,
+			"name": "crouch_idle2"
+		}, 
+		{
+			"fps": 10.000000,
+			"frames": 61,
+			"name": "crouch_idle3"
+		}, 
+		{
+			"fps": 10.000000,
+			"frames": 61,
+			"name": "crouch_idle3"
+		}, 
+		{
+			"fps": 10.000000,
+			"frames": 61,
+			"name": "panic"
+		}, 
+		{
+			"fps": 10.000000,
+			"frames": 61,
+			"name": "fear1"
+		}, 
+		{
+			"fps": 10.000000,
+			"frames": 61,
+			"name": "fear2"
+		}, 
+		{
+			"fps": 10.000000,
+			"frames": 61,
+			"name": "eye_wipe"
+		}, 
+		{
+			"fps": 10.000000,
+			"frames": 61,
+			"name": "pull_needle"
+		}, 
+		{
+			"fps": 10.000000,
+			"frames": 61,
+			"name": "return_needle"
+		}, 
+		{
+			"fps": 10.000000,
+			"frames": 61,
+			"name": "give_shot"
+		}, 
+		{
+			"fps": 24.000000,
+			"frames": 41,
+			"name": "diesimple"
+		}, 
+		{
+			"fps": 24.000000,
+			"frames": 23,
+			"name": "dieforward"
+		}, 
+		{
+			"fps": 24.000000,
+			"frames": 23,
+			"name": "dieforward1"
+		}, 
+		{
+			"fps": 24.000000,
+			"frames": 23,
+			"name": "diebackward"
+		}, 
+		{
+			"fps": 24.000000,
+			"frames": 41,
+			"name": "headshot"
+		}, 
+		{
+			"fps": 24.000000,
+			"frames": 41,
+			"name": "gutshot"
+		}
+	],
+	"skeleton": [
+		{
+			"name": "Bip01",
+			"parent": -1
+		}, 
+		{
+			"name": "Bip01 Pelvis",
+			"parent": 0
+		}, 
+		{
+			"name": "Bip01 Spine",
+			"parent": 1
+		}, 
+		{
+			"name": "Bip01 Spine1",
+			"parent": 2
+		}, 
+		{
+			"name": "Bip01 Spine2",
+			"parent": 3
+		}, 
+		{
+			"name": "Bip01 Neck",
+			"parent": 4
+		}, 
+		{
+			"name": "Bip01 Head",
+			"parent": 5
+		}, 
+		{
+			"name": "Bip01 L Clavicle",
+			"parent": 5
+		}, 
+		{
+			"name": "Bip01 L UpperArm",
+			"parent": 7
+		}, 
+		{
+			"name": "Bip01 L Forearm",
+			"parent": 8
+		}, 
+		{
+			"name": "Bip01 L Hand",
+			"parent": 9
+		}, 
+		{
+			"name": "Bip01 L Finger0",
+			"parent": 10
+		}, 
+		{
+			"name": "Bip01 R Clavicle",
+			"parent": 5
+		}, 
+		{
+			"name": "Bip01 R UpperArm",
+			"parent": 12
+		}, 
+		{
+			"name": "Bip01 R Forearm",
+			"parent": 13
+		}, 
+		{
+			"name": "Bip01 R Hand",
+			"parent": 14
+		}, 
+		{
+			"name": "Bip01 R Finger0",
+			"parent": 15
+		}, 
+		{
+			"name": "Bip01 L Thigh",
+			"parent": 1
+		}, 
+		{
+			"name": "Bip01 L Calf",
+			"parent": 17
+		}, 
+		{
+			"name": "Bip01 L Foot",
+			"parent": 18
+		}, 
+		{
+			"name": "Bip01 L Toe0",
+			"parent": 19
+		}, 
+		{
+			"name": "Bip01 R Thigh",
+			"parent": 1
+		}, 
+		{
+			"name": "Bip01 R Calf",
+			"parent": 21
+		}, 
+		{
+			"name": "Bip01 R Foot",
+			"parent": 22
+		}, 
+		{
+			"name": "Bip01 R Toe0",
+			"parent": 23
+		}
+	],
+	"skins": 1,
+	"t_model": false,
+	"textures": [
+		{
+			"flags": 0,
+			"height": 256,
+			"name": "body.bmp",
+			"width": 256
+		}, 
+		{
+			"flags": 0,
+			"height": 256,
+			"name": "face.bmp",
+			"width": 256
+		}
+	],
+	"version": 10
+}

@@ -1,1 +1,1183 @@
-{"seq_groups": 1, "hash": "3ea4c9bb4705906c6b8967f4ba16be55", "tri_count": "2146", "events": [{"seq": "0", "frame": "6", "file": "bandit/bandit_walkcasual_stepright.wav"}, {"seq": "0", "frame": "21", "file": "bandit/bandit_walkcasual_stepleft.wav"}, {"seq": "1", "frame": "6", "file": "bandit/bandit_run_stepright.wav"}, {"seq": "1", "frame": "14", "file": "bandit/bandit_run_stepleft.wav"}, {"seq": "17", "frame": "0", "file": "bandit/reload.wav"}, {"seq": "18", "frame": "0", "file": "bandit/reload.wav"}, {"seq": "19", "frame": "1", "file": "demoman/demo_kick.wav"}, {"seq": "22", "frame": "5", "file": "bandit/bandit_walkcasual_stepright.wav"}, {"seq": "22", "frame": "18", "file": "bandit/bandit_walkcasual_stepleft.wav"}, {"seq": "23", "frame": "6", "file": "bandit/bandit_run_stepright.wav"}, {"seq": "23", "frame": "14", "file": "bandit/bandit_run_stepleft.wav"}, {"seq": "31", "frame": "1", "file": "demoman/demo_kick.wav"}, {"seq": "32", "frame": "0", "file": "bandit/bandit_diesimple.wav"}, {"seq": "33", "frame": "0", "file": "bandit/bandit_dieviolent.wav"}, {"seq": "34", "frame": "0", "file": "bandit/bandit_dieforward.wav"}, {"seq": "35", "frame": "0", "file": "bandit/bandit_diebackwards.wav"}, {"seq": "36", "frame": "0", "file": "bandit/bandit_dieheadshot.wav"}, {"seq": "37", "frame": "28", "file": "bandit/bandit_walkcasual_stepleft.wav"}, {"seq": "37", "frame": "34", "file": "bandit/bandit_footdrag.wav"}, {"seq": "38", "frame": "0", "file": "bandit/bandit_run_stepright.wav"}, {"seq": "38", "frame": "0", "file": "bandit/bandit_run_stepleft.wav"}, {"seq": "44", "frame": "0", "file": "bandit/bandit_draw.wav"}]}
+{
+	"attachments": [
+		{
+			"bone": 13,
+			"name": "",
+			"type": 0
+		}, 
+		{
+			"bone": 9,
+			"name": "",
+			"type": 0
+		}, 
+		{
+			"bone": 13,
+			"name": "",
+			"type": 0
+		}
+	],
+	"bodies": [
+		{
+			"models": [
+				{
+					"name": "REF-body",
+					"polys": 456,
+					"verts": 244
+				}
+			],
+			"name": "body"
+		}, 
+		{
+			"models": [
+				{
+					"name": "REF-guns",
+					"polys": 152,
+					"verts": 80
+				}, 
+				{
+					"name": "gunholster",
+					"polys": 56,
+					"verts": 32
+				}, 
+				{
+					"name": "REF-mecha",
+					"polys": 388,
+					"verts": 226
+				}, 
+				{
+					"name": "blank",
+					"polys": 0,
+					"verts": 0
+				}
+			],
+			"name": "weapons"
+		}, 
+		{
+			"models": [
+				{
+					"name": "REF-head",
+					"polys": 175,
+					"verts": 100
+				}, 
+				{
+					"name": "REF-mask",
+					"polys": 139,
+					"verts": 79
+				}, 
+				{
+					"name": "REF-goggles",
+					"polys": 235,
+					"verts": 128
+				}, 
+				{
+					"name": "REF-pilot",
+					"polys": 206,
+					"verts": 107
+				}, 
+				{
+					"name": "REF-decapt",
+					"polys": 40,
+					"verts": 24
+				}
+			],
+			"name": "heads"
+		}, 
+		{
+			"models": [
+				{
+					"name": "REF-normal",
+					"polys": 92,
+					"verts": 48
+				}, 
+				{
+					"name": "REF-armor",
+					"polys": 207,
+					"verts": 111
+				}
+			],
+			"name": "armor"
+		}
+	],
+	"controllers": [
+		{
+			"bone": 21,
+			"end": 30.000000,
+			"index": 4,
+			"rest": 0,
+			"start": 0.000000,
+			"type": 8
+		}, 
+		{
+			"bone": 20,
+			"end": 30.000000,
+			"index": 0,
+			"rest": 0,
+			"start": -30.000000,
+			"type": 8
+		}, 
+		{
+			"bone": 20,
+			"end": 30.000000,
+			"index": 2,
+			"rest": 0,
+			"start": -30.000000,
+			"type": 32
+		}
+	],
+	"events": [
+		{
+			"event": 1004,
+			"frame": 6,
+			"options": "bandit/bandit_walkcasual_stepright.wav",
+			"sequence": 0,
+			"type": 0
+		}, 
+		{
+			"event": 1004,
+			"frame": 21,
+			"options": "bandit/bandit_walkcasual_stepleft.wav",
+			"sequence": 0,
+			"type": 0
+		}, 
+		{
+			"event": 1004,
+			"frame": 6,
+			"options": "bandit/bandit_run_stepright.wav",
+			"sequence": 1,
+			"type": 0
+		}, 
+		{
+			"event": 1004,
+			"frame": 14,
+			"options": "bandit/bandit_run_stepleft.wav",
+			"sequence": 1,
+			"type": 0
+		}, 
+		{
+			"event": 1,
+			"frame": 0,
+			"options": "",
+			"sequence": 5,
+			"type": 0
+		}, 
+		{
+			"event": 2,
+			"frame": 2,
+			"options": "",
+			"sequence": 5,
+			"type": 0
+		}, 
+		{
+			"event": 2,
+			"frame": 8,
+			"options": "",
+			"sequence": 5,
+			"type": 0
+		}, 
+		{
+			"event": 1,
+			"frame": 11,
+			"options": "",
+			"sequence": 5,
+			"type": 0
+		}, 
+		{
+			"event": 5001,
+			"frame": 0,
+			"options": "42",
+			"sequence": 5,
+			"type": 0
+		}, 
+		{
+			"event": 5011,
+			"frame": 2,
+			"options": "42",
+			"sequence": 5,
+			"type": 0
+		}, 
+		{
+			"event": 5001,
+			"frame": 8,
+			"options": "42",
+			"sequence": 5,
+			"type": 0
+		}, 
+		{
+			"event": 5011,
+			"frame": 11,
+			"options": "42",
+			"sequence": 5,
+			"type": 0
+		}, 
+		{
+			"event": 1,
+			"frame": 0,
+			"options": "",
+			"sequence": 6,
+			"type": 0
+		}, 
+		{
+			"event": 2,
+			"frame": 2,
+			"options": "",
+			"sequence": 6,
+			"type": 0
+		}, 
+		{
+			"event": 2,
+			"frame": 8,
+			"options": "",
+			"sequence": 6,
+			"type": 0
+		}, 
+		{
+			"event": 1,
+			"frame": 11,
+			"options": "",
+			"sequence": 6,
+			"type": 0
+		}, 
+		{
+			"event": 5001,
+			"frame": 0,
+			"options": "42",
+			"sequence": 6,
+			"type": 0
+		}, 
+		{
+			"event": 5011,
+			"frame": 2,
+			"options": "42",
+			"sequence": 6,
+			"type": 0
+		}, 
+		{
+			"event": 5001,
+			"frame": 8,
+			"options": "42",
+			"sequence": 6,
+			"type": 0
+		}, 
+		{
+			"event": 5011,
+			"frame": 11,
+			"options": "42",
+			"sequence": 6,
+			"type": 0
+		}, 
+		{
+			"event": 5,
+			"frame": 6,
+			"options": "",
+			"sequence": 8,
+			"type": 0
+		}, 
+		{
+			"event": 5011,
+			"frame": 6,
+			"options": "42",
+			"sequence": 8,
+			"type": 0
+		}, 
+		{
+			"event": 6,
+			"frame": 10,
+			"options": "",
+			"sequence": 8,
+			"type": 0
+		}, 
+		{
+			"event": 5001,
+			"frame": 10,
+			"options": "42",
+			"sequence": 8,
+			"type": 0
+		}, 
+		{
+			"event": 5,
+			"frame": 14,
+			"options": "",
+			"sequence": 8,
+			"type": 0
+		}, 
+		{
+			"event": 5011,
+			"frame": 14,
+			"options": "42",
+			"sequence": 8,
+			"type": 0
+		}, 
+		{
+			"event": 6,
+			"frame": 14,
+			"options": "",
+			"sequence": 8,
+			"type": 0
+		}, 
+		{
+			"event": 5001,
+			"frame": 14,
+			"options": "42",
+			"sequence": 8,
+			"type": 0
+		}, 
+		{
+			"event": 5,
+			"frame": 6,
+			"options": "",
+			"sequence": 9,
+			"type": 0
+		}, 
+		{
+			"event": 5011,
+			"frame": 6,
+			"options": "42",
+			"sequence": 9,
+			"type": 0
+		}, 
+		{
+			"event": 6,
+			"frame": 10,
+			"options": "",
+			"sequence": 9,
+			"type": 0
+		}, 
+		{
+			"event": 5001,
+			"frame": 10,
+			"options": "42",
+			"sequence": 9,
+			"type": 0
+		}, 
+		{
+			"event": 5,
+			"frame": 14,
+			"options": "",
+			"sequence": 9,
+			"type": 0
+		}, 
+		{
+			"event": 5011,
+			"frame": 14,
+			"options": "42",
+			"sequence": 9,
+			"type": 0
+		}, 
+		{
+			"event": 6,
+			"frame": 14,
+			"options": "",
+			"sequence": 9,
+			"type": 0
+		}, 
+		{
+			"event": 5001,
+			"frame": 14,
+			"options": "42",
+			"sequence": 9,
+			"type": 0
+		}, 
+		{
+			"event": 7,
+			"frame": 10,
+			"options": "",
+			"sequence": 10,
+			"type": 0
+		}, 
+		{
+			"event": 5011,
+			"frame": 10,
+			"options": "62",
+			"sequence": 10,
+			"type": 0
+		}, 
+		{
+			"event": 1004,
+			"frame": 0,
+			"options": "bandit/reload.wav",
+			"sequence": 17,
+			"type": 0
+		}, 
+		{
+			"event": 1004,
+			"frame": 0,
+			"options": "bandit/reload.wav",
+			"sequence": 18,
+			"type": 0
+		}, 
+		{
+			"event": 11,
+			"frame": 9,
+			"options": "",
+			"sequence": 19,
+			"type": 0
+		}, 
+		{
+			"event": 1004,
+			"frame": 1,
+			"options": "demoman/demo_kick.wav",
+			"sequence": 19,
+			"type": 0
+		}, 
+		{
+			"event": 1004,
+			"frame": 5,
+			"options": "bandit/bandit_walkcasual_stepright.wav",
+			"sequence": 22,
+			"type": 0
+		}, 
+		{
+			"event": 1004,
+			"frame": 18,
+			"options": "bandit/bandit_walkcasual_stepleft.wav",
+			"sequence": 22,
+			"type": 0
+		}, 
+		{
+			"event": 1004,
+			"frame": 6,
+			"options": "bandit/bandit_run_stepright.wav",
+			"sequence": 23,
+			"type": 0
+		}, 
+		{
+			"event": 1004,
+			"frame": 14,
+			"options": "bandit/bandit_run_stepleft.wav",
+			"sequence": 23,
+			"type": 0
+		}, 
+		{
+			"event": 8,
+			"frame": 3,
+			"options": "",
+			"sequence": 27,
+			"type": 0
+		}, 
+		{
+			"event": 8,
+			"frame": 5,
+			"options": "",
+			"sequence": 27,
+			"type": 0
+		}, 
+		{
+			"event": 8,
+			"frame": 7,
+			"options": "",
+			"sequence": 27,
+			"type": 0
+		}, 
+		{
+			"event": 8,
+			"frame": 9,
+			"options": "",
+			"sequence": 27,
+			"type": 0
+		}, 
+		{
+			"event": 5021,
+			"frame": 3,
+			"options": "40",
+			"sequence": 27,
+			"type": 0
+		}, 
+		{
+			"event": 5021,
+			"frame": 5,
+			"options": "50",
+			"sequence": 27,
+			"type": 0
+		}, 
+		{
+			"event": 5021,
+			"frame": 7,
+			"options": "40",
+			"sequence": 27,
+			"type": 0
+		}, 
+		{
+			"event": 5021,
+			"frame": 9,
+			"options": "50",
+			"sequence": 27,
+			"type": 0
+		}, 
+		{
+			"event": 8,
+			"frame": 3,
+			"options": "",
+			"sequence": 28,
+			"type": 0
+		}, 
+		{
+			"event": 8,
+			"frame": 5,
+			"options": "",
+			"sequence": 28,
+			"type": 0
+		}, 
+		{
+			"event": 8,
+			"frame": 7,
+			"options": "",
+			"sequence": 28,
+			"type": 0
+		}, 
+		{
+			"event": 8,
+			"frame": 9,
+			"options": "",
+			"sequence": 28,
+			"type": 0
+		}, 
+		{
+			"event": 5021,
+			"frame": 3,
+			"options": "40",
+			"sequence": 28,
+			"type": 0
+		}, 
+		{
+			"event": 5021,
+			"frame": 5,
+			"options": "50",
+			"sequence": 28,
+			"type": 0
+		}, 
+		{
+			"event": 5021,
+			"frame": 7,
+			"options": "40",
+			"sequence": 28,
+			"type": 0
+		}, 
+		{
+			"event": 5021,
+			"frame": 9,
+			"options": "50",
+			"sequence": 28,
+			"type": 0
+		}, 
+		{
+			"event": 11,
+			"frame": 9,
+			"options": "",
+			"sequence": 31,
+			"type": 0
+		}, 
+		{
+			"event": 1004,
+			"frame": 1,
+			"options": "demoman/demo_kick.wav",
+			"sequence": 31,
+			"type": 0
+		}, 
+		{
+			"event": 1004,
+			"frame": 0,
+			"options": "bandit/bandit_diesimple.wav",
+			"sequence": 32,
+			"type": 0
+		}, 
+		{
+			"event": 1004,
+			"frame": 0,
+			"options": "bandit/bandit_dieviolent.wav",
+			"sequence": 33,
+			"type": 0
+		}, 
+		{
+			"event": 1004,
+			"frame": 0,
+			"options": "bandit/bandit_dieforward.wav",
+			"sequence": 34,
+			"type": 0
+		}, 
+		{
+			"event": 1004,
+			"frame": 0,
+			"options": "bandit/bandit_diebackwards.wav",
+			"sequence": 35,
+			"type": 0
+		}, 
+		{
+			"event": 1004,
+			"frame": 0,
+			"options": "bandit/bandit_dieheadshot.wav",
+			"sequence": 36,
+			"type": 0
+		}, 
+		{
+			"event": 1004,
+			"frame": 28,
+			"options": "bandit/bandit_walkcasual_stepleft.wav",
+			"sequence": 37,
+			"type": 0
+		}, 
+		{
+			"event": 1004,
+			"frame": 34,
+			"options": "bandit/bandit_footdrag.wav",
+			"sequence": 37,
+			"type": 0
+		}, 
+		{
+			"event": 1004,
+			"frame": 0,
+			"options": "bandit/bandit_run_stepright.wav",
+			"sequence": 38,
+			"type": 0
+		}, 
+		{
+			"event": 1004,
+			"frame": 0,
+			"options": "bandit/bandit_run_stepleft.wav",
+			"sequence": 38,
+			"type": 0
+		}, 
+		{
+			"event": 3,
+			"frame": 4,
+			"options": "",
+			"sequence": 44,
+			"type": 0
+		}, 
+		{
+			"event": 1004,
+			"frame": 0,
+			"options": "bandit/bandit_draw.wav",
+			"sequence": 44,
+			"type": 0
+		}, 
+		{
+			"event": 4,
+			"frame": 4,
+			"options": "",
+			"sequence": 45,
+			"type": 0
+		}, 
+		{
+			"event": 1000,
+			"frame": 1,
+			"options": "",
+			"sequence": 60,
+			"type": 0
+		}
+	],
+	"id": 1414743113,
+	"md5": "3ea4c9bb4705906c6b8967f4ba16be55",
+	"name": "c:\\rewolf/bandit.mdl",
+	"seq_groups": "1",
+	"sequences": [
+		{
+			"fps": 30.000000,
+			"frames": 31,
+			"name": "walkcasual"
+		}, 
+		{
+			"fps": 30.000000,
+			"frames": 18,
+			"name": "run"
+		}, 
+		{
+			"fps": 25.000000,
+			"frames": 51,
+			"name": "idle"
+		}, 
+		{
+			"fps": 25.000000,
+			"frames": 61,
+			"name": "idleactive"
+		}, 
+		{
+			"fps": 30.000000,
+			"frames": 61,
+			"name": "idlecombat"
+		}, 
+		{
+			"fps": 15.000000,
+			"frames": 16,
+			"name": "shooting"
+		}, 
+		{
+			"fps": 15.000000,
+			"frames": 16,
+			"name": "crouchfire"
+		}, 
+		{
+			"fps": 30.000000,
+			"frames": 61,
+			"name": "crouch#idle"
+		}, 
+		{
+			"fps": 22.000000,
+			"frames": 26,
+			"name": "rapidfire"
+		}, 
+		{
+			"fps": 22.000000,
+			"frames": 26,
+			"name": "crouchrapidfire"
+		}, 
+		{
+			"fps": 15.000000,
+			"frames": 27,
+			"name": "chargedfire"
+		}, 
+		{
+			"fps": 30.000000,
+			"frames": 16,
+			"name": "crouch#tocrouch"
+		}, 
+		{
+			"fps": 30.000000,
+			"frames": 16,
+			"name": "stand"
+		}, 
+		{
+			"fps": 10.000000,
+			"frames": 16,
+			"name": "cower"
+		}, 
+		{
+			"fps": 35.000000,
+			"frames": 54,
+			"name": "victory"
+		}, 
+		{
+			"fps": 50.000000,
+			"frames": 56,
+			"name": "rollleft"
+		}, 
+		{
+			"fps": 50.000000,
+			"frames": 56,
+			"name": "rollright"
+		}, 
+		{
+			"fps": 22.000000,
+			"frames": 46,
+			"name": "reload"
+		}, 
+		{
+			"fps": 22.000000,
+			"frames": 46,
+			"name": "crouchreload"
+		}, 
+		{
+			"fps": 26.000000,
+			"frames": 25,
+			"name": "gausspunch"
+		}, 
+		{
+			"fps": 25.000000,
+			"frames": 51,
+			"name": "mechaidle"
+		}, 
+		{
+			"fps": 25.000000,
+			"frames": 51,
+			"name": "mechaidleactive"
+		}, 
+		{
+			"fps": 30.000000,
+			"frames": 30,
+			"name": "mechawalk"
+		}, 
+		{
+			"fps": 30.000000,
+			"frames": 18,
+			"name": "mecharun"
+		}, 
+		{
+			"fps": 30.000000,
+			"frames": 21,
+			"name": "mcrouch#mechacrouching"
+		}, 
+		{
+			"fps": 30.000000,
+			"frames": 21,
+			"name": "mechastanding"
+		}, 
+		{
+			"fps": 25.000000,
+			"frames": 51,
+			"name": "mcrouch#mechacrouchidle"
+		}, 
+		{
+			"fps": 15.000000,
+			"frames": 16,
+			"name": "mechashooting"
+		}, 
+		{
+			"fps": 15.000000,
+			"frames": 16,
+			"name": "mechacrouchshooting"
+		}, 
+		{
+			"fps": 25.000000,
+			"frames": 51,
+			"name": "mechareload"
+		}, 
+		{
+			"fps": 25.000000,
+			"frames": 51,
+			"name": "mechacrouchreload"
+		}, 
+		{
+			"fps": 26.000000,
+			"frames": 25,
+			"name": "mechapunch"
+		}, 
+		{
+			"fps": 22.000000,
+			"frames": 25,
+			"name": "diesimple"
+		}, 
+		{
+			"fps": 39.000000,
+			"frames": 41,
+			"name": "dieviolent"
+		}, 
+		{
+			"fps": 25.000000,
+			"frames": 41,
+			"name": "dieforwards"
+		}, 
+		{
+			"fps": 25.000000,
+			"frames": 54,
+			"name": "diebackwards"
+		}, 
+		{
+			"fps": 25.000000,
+			"frames": 33,
+			"name": "dieheadshot"
+		}, 
+		{
+			"fps": 25.000000,
+			"frames": 40,
+			"name": "limpwalk"
+		}, 
+		{
+			"fps": 28.000000,
+			"frames": 18,
+			"name": "limprun"
+		}, 
+		{
+			"fps": 18.000000,
+			"frames": 11,
+			"name": "smallflinch"
+		}, 
+		{
+			"fps": 18.000000,
+			"frames": 11,
+			"name": "larmflinch"
+		}, 
+		{
+			"fps": 18.000000,
+			"frames": 11,
+			"name": "rarmflinch"
+		}, 
+		{
+			"fps": 18.000000,
+			"frames": 11,
+			"name": "llegflinch"
+		}, 
+		{
+			"fps": 18.000000,
+			"frames": 11,
+			"name": "rlegflinch"
+		}, 
+		{
+			"fps": 14.000000,
+			"frames": 11,
+			"name": "draw"
+		}, 
+		{
+			"fps": 14.000000,
+			"frames": 11,
+			"name": "holster"
+		}, 
+		{
+			"fps": 1.000000,
+			"frames": 2,
+			"name": "deadpose"
+		}, 
+		{
+			"fps": 25.000000,
+			"frames": 51,
+			"name": "shout#idle"
+		}, 
+		{
+			"fps": 50.000000,
+			"frames": 51,
+			"name": "shoutstand"
+		}, 
+		{
+			"fps": 45.000000,
+			"frames": 60,
+			"name": "trap"
+		}, 
+		{
+			"fps": 30.000000,
+			"frames": 131,
+			"name": "scared"
+		}, 
+		{
+			"fps": 30.000000,
+			"frames": 105,
+			"name": "impale#death"
+		}, 
+		{
+			"fps": 30.000000,
+			"frames": 2,
+			"name": "impale#idle"
+		}, 
+		{
+			"fps": 15.000000,
+			"frames": 96,
+			"name": "talk"
+		}, 
+		{
+			"fps": 15.000000,
+			"frames": 96,
+			"name": "talk2"
+		}, 
+		{
+			"fps": 30.000000,
+			"frames": 51,
+			"name": "choke#idle"
+		}, 
+		{
+			"fps": 30.000000,
+			"frames": 31,
+			"name": "stop#choke"
+		}, 
+		{
+			"fps": 10.000000,
+			"frames": 2,
+			"name": "stop#idle"
+		}, 
+		{
+			"fps": 1.000000,
+			"frames": 2,
+			"name": "plungerwait"
+		}, 
+		{
+			"fps": 15.000000,
+			"frames": 39,
+			"name": "plunger"
+		}, 
+		{
+			"fps": 40.000000,
+			"frames": 51,
+			"name": "tossed"
+		}, 
+		{
+			"fps": 15.000000,
+			"frames": 96,
+			"name": "frisk#idle"
+		}, 
+		{
+			"fps": 15.000000,
+			"frames": 96,
+			"name": "arrest#idle"
+		}, 
+		{
+			"fps": 30.000000,
+			"frames": 41,
+			"name": "switchpull"
+		}, 
+		{
+			"fps": 25.000000,
+			"frames": 56,
+			"name": "idlesalute"
+		}, 
+		{
+			"fps": 30.000000,
+			"frames": 56,
+			"name": "salute"
+		}
+	],
+	"skeleton": [
+		{
+			"name": "Bip01",
+			"parent": -1
+		}, 
+		{
+			"name": "Bip01 Pelvis",
+			"parent": 0
+		}, 
+		{
+			"name": "Bip01 Spine",
+			"parent": 1
+		}, 
+		{
+			"name": "Bip01 Spine1",
+			"parent": 2
+		}, 
+		{
+			"name": "Bip01 Spine2",
+			"parent": 3
+		}, 
+		{
+			"name": "Bip01 Neck",
+			"parent": 4
+		}, 
+		{
+			"name": "Bip01 L Clavicle",
+			"parent": 5
+		}, 
+		{
+			"name": "Bip01 L UpperArm",
+			"parent": 6
+		}, 
+		{
+			"name": "Bip01 L Forearm",
+			"parent": 7
+		}, 
+		{
+			"name": "Bip01 L Hand",
+			"parent": 8
+		}, 
+		{
+			"name": "Bip01 R Clavicle",
+			"parent": 5
+		}, 
+		{
+			"name": "Bip01 R UpperArm",
+			"parent": 10
+		}, 
+		{
+			"name": "Bip01 R Forearm",
+			"parent": 11
+		}, 
+		{
+			"name": "Bip01 R Hand",
+			"parent": 12
+		}, 
+		{
+			"name": "Bip01 L Thigh",
+			"parent": 2
+		}, 
+		{
+			"name": "Bip01 L Calf",
+			"parent": 14
+		}, 
+		{
+			"name": "Bip01 L Foot",
+			"parent": 15
+		}, 
+		{
+			"name": "Bip01 R Thigh",
+			"parent": 2
+		}, 
+		{
+			"name": "Bip01 R Calf",
+			"parent": 17
+		}, 
+		{
+			"name": "Bip01 R Foot",
+			"parent": 18
+		}, 
+		{
+			"name": "Bip01 Head",
+			"parent": 5
+		}, 
+		{
+			"name": "Bone01",
+			"parent": 20
+		}
+	],
+	"skins": 1,
+	"t_model": false,
+	"textures": [
+		{
+			"flags": 0,
+			"height": 191,
+			"name": "arm.bmp",
+			"width": 112
+		}, 
+		{
+			"flags": 0,
+			"height": 190,
+			"name": "leg.bmp",
+			"width": 200
+		}, 
+		{
+			"flags": 0,
+			"height": 64,
+			"name": "pistol.bmp",
+			"width": 128
+		}, 
+		{
+			"flags": 0,
+			"height": 79,
+			"name": "gun.bmp",
+			"width": 128
+		}, 
+		{
+			"flags": 0,
+			"height": 127,
+			"name": "gunbaseworld.bmp",
+			"width": 256
+		}, 
+		{
+			"flags": 3,
+			"height": 64,
+			"name": "chromelightblue.bmp",
+			"width": 64
+		}, 
+		{
+			"flags": 0,
+			"height": 63,
+			"name": "antenna.bmp",
+			"width": 32
+		}, 
+		{
+			"flags": 0,
+			"height": 155,
+			"name": "head1.bmp",
+			"width": 196
+		}, 
+		{
+			"flags": 0,
+			"height": 119,
+			"name": "mask.bmp",
+			"width": 160
+		}, 
+		{
+			"flags": 0,
+			"height": 148,
+			"name": "goggles.bmp",
+			"width": 192
+		}, 
+		{
+			"flags": 0,
+			"height": 128,
+			"name": "head.bmp",
+			"width": 128
+		}, 
+		{
+			"flags": 0,
+			"height": 135,
+			"name": "Neck.bmp",
+			"width": 64
+		}, 
+		{
+			"flags": 0,
+			"height": 197,
+			"name": "body.bmp",
+			"width": 256
+		}, 
+		{
+			"flags": 0,
+			"height": 128,
+			"name": "vest.bmp",
+			"width": 128
+		}
+	],
+	"version": 10
+}

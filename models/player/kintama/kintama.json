@@ -1,1 +1,281 @@
-{"seq_groups": 1, "hash": "5421840593a2fd767980a942407f1f22", "tri_count": "1508", "t_model": "kintamat.mdl"}
+{
+	"attachments": [],
+	"bodies": [
+		{
+			"models": [
+				{
+					"name": "reference",
+					"polys": 1508,
+					"verts": 796
+				}
+			],
+			"name": "studio"
+		}
+	],
+	"controllers": [],
+	"events": [],
+	"id": 1414743113,
+	"md5": "9f46aac2fd8e1de728bf81bd4997aafa",
+	"name": "kintama.mdl",
+	"seq_groups": "1",
+	"sequences": [
+		{
+			"fps": 15.000000,
+			"frames": 31,
+			"name": "idle1"
+		}, 
+		{
+			"fps": 15.000000,
+			"frames": 31,
+			"name": "idle2_1"
+		}, 
+		{
+			"fps": 15.000000,
+			"frames": 31,
+			"name": "idle2_2"
+		}, 
+		{
+			"fps": 28.000000,
+			"frames": 23,
+			"name": "run"
+		}, 
+		{
+			"fps": 35.000000,
+			"frames": 49,
+			"name": "walk_1"
+		}, 
+		{
+			"fps": 20.000000,
+			"frames": 17,
+			"name": "mortar_1"
+		}, 
+		{
+			"fps": 35.000000,
+			"frames": 49,
+			"name": "walk_2"
+		}, 
+		{
+			"fps": 35.000000,
+			"frames": 49,
+			"name": "walk_3"
+		}, 
+		{
+			"fps": 30.000000,
+			"frames": 41,
+			"name": "breakwall_1"
+		}, 
+		{
+			"fps": 30.000000,
+			"frames": 41,
+			"name": "breakwall_2"
+		}, 
+		{
+			"fps": 23.000000,
+			"frames": 91,
+			"name": "falldeath_1"
+		}, 
+		{
+			"fps": 20.000000,
+			"frames": 17,
+			"name": "mortar_2"
+		}, 
+		{
+			"fps": 16.000000,
+			"frames": 61,
+			"name": "death_1"
+		}, 
+		{
+			"fps": 16.000000,
+			"frames": 61,
+			"name": "death_2"
+		}, 
+		{
+			"fps": 16.000000,
+			"frames": 61,
+			"name": "death_3"
+		}, 
+		{
+			"fps": 16.000000,
+			"frames": 61,
+			"name": "death_4"
+		}, 
+		{
+			"fps": 23.000000,
+			"frames": 91,
+			"name": "falldeath_2"
+		}, 
+		{
+			"fps": 23.000000,
+			"frames": 91,
+			"name": "falldeath_3"
+		}, 
+		{
+			"fps": 23.000000,
+			"frames": 91,
+			"name": "falldeath_4"
+		}
+	],
+	"skeleton": [
+		{
+			"name": "Bip01",
+			"parent": -1
+		}, 
+		{
+			"name": "Bip01 Pelvis",
+			"parent": 0
+		}, 
+		{
+			"name": "Bip01 L Leg",
+			"parent": 1
+		}, 
+		{
+			"name": "Bip01 L Leg1",
+			"parent": 2
+		}, 
+		{
+			"name": "Bip01 R Leg",
+			"parent": 1
+		}, 
+		{
+			"name": "Bip01 R Leg1",
+			"parent": 4
+		}, 
+		{
+			"name": "Bip01 Spine",
+			"parent": 1
+		}, 
+		{
+			"name": "Bip01 Neck",
+			"parent": 6
+		}, 
+		{
+			"name": "Bip01 L Arm",
+			"parent": 7
+		}, 
+		{
+			"name": "Bip01 L Arm1",
+			"parent": 8
+		}, 
+		{
+			"name": "Bip01 L Arm2",
+			"parent": 9
+		}, 
+		{
+			"name": "Bip01 R Arm",
+			"parent": 7
+		}, 
+		{
+			"name": "Bip01 R Arm1",
+			"parent": 11
+		}, 
+		{
+			"name": "Bip01 R Arm2",
+			"parent": 12
+		}, 
+		{
+			"name": "Bone01",
+			"parent": 6
+		}, 
+		{
+			"name": "Bone02",
+			"parent": 14
+		}, 
+		{
+			"name": "Bone03",
+			"parent": 15
+		}, 
+		{
+			"name": "Bone04",
+			"parent": 16
+		}, 
+		{
+			"name": "Bone05",
+			"parent": 17
+		}, 
+		{
+			"name": "Bone23",
+			"parent": 17
+		}, 
+		{
+			"name": "Bone28",
+			"parent": 17
+		}, 
+		{
+			"name": "Bone29",
+			"parent": 20
+		}, 
+		{
+			"name": "Bone20",
+			"parent": 17
+		}, 
+		{
+			"name": "Bone26",
+			"parent": 17
+		}, 
+		{
+			"name": "Bone32",
+			"parent": 16
+		}, 
+		{
+			"name": "Bone07",
+			"parent": 16
+		}, 
+		{
+			"name": "Bone08",
+			"parent": 25
+		}, 
+		{
+			"name": "Bone34",
+			"parent": 16
+		}, 
+		{
+			"name": "Bone35",
+			"parent": 27
+		}, 
+		{
+			"name": "Bone11",
+			"parent": 16
+		}
+	],
+	"skins": 1,
+	"t_model": true,
+	"textures": [
+		{
+			"flags": 0,
+			"height": 142,
+			"name": "sid1.bmp",
+			"width": 168
+		}, 
+		{
+			"flags": 0,
+			"height": 257,
+			"name": "leg1.bmp",
+			"width": 100
+		}, 
+		{
+			"flags": 0,
+			"height": 120,
+			"name": "top1.bmp",
+			"width": 128
+		}, 
+		{
+			"flags": 0,
+			"height": 14,
+			"name": "crown.bmp",
+			"width": 128
+		}, 
+		{
+			"flags": 0,
+			"height": 24,
+			"name": "crown2.bmp",
+			"width": 200
+		}, 
+		{
+			"flags": 0,
+			"height": 60,
+			"name": "bottom.bmp",
+			"width": 64
+		}
+	],
+	"version": 10
+}
