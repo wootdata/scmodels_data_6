@@ -35,9 +35,9 @@
 		{
 			"models": [
 				{
-					"name": "SC_betty_head_ref",
-					"polys": 1317,
-					"verts": 650
+					"name": "SC_mel_head_ref",
+					"polys": 3316,
+					"verts": 1692
 				}
 			],
 			"name": "helmet"
@@ -51,16 +51,6 @@
 				}
 			],
 			"name": "legs"
-		}, 
-		{
-			"models": [
-				{
-					"name": "SC_betty_lights_ref",
-					"polys": 3127,
-					"verts": 1616
-				}
-			],
-			"name": "gear"
 		}
 	],
 	"controllers": [
@@ -97,7 +87,7 @@
 			"type": 8
 		}, 
 		{
-			"bone": 31,
+			"bone": 28,
 			"end": 15.000000,
 			"index": 4,
 			"rest": 0,
@@ -339,7 +329,7 @@
 		}
 	],
 	"id": 1414743113,
-	"md5": "281ca86cd1a656ca9e93c3bba16835ff",
+	"md5": "f6dd824dfbfd04db156a88b4357ec6e8",
 	"name": "test3.mdl",
 	"seq_groups": "1",
 	"sequences": [
@@ -1299,7 +1289,7 @@
 			"name": "action_wave"
 		}
 	],
-	"size": 2663880,
+	"size": 2249408,
 	"skeleton": [
 		{
 			"name": "Bip01",
@@ -1414,18 +1404,6 @@
 			"parent": 6
 		}, 
 		{
-			"name": "R_eye",
-			"parent": 27
-		}, 
-		{
-			"name": "Eyelids",
-			"parent": 27
-		}, 
-		{
-			"name": "L_eye",
-			"parent": 27
-		}, 
-		{
 			"name": "mouth",
 			"parent": 27
 		}, 
@@ -1435,11 +1413,11 @@
 		}, 
 		{
 			"name": "Bip01 L Leg1",
-			"parent": 32
+			"parent": 29
 		}, 
 		{
 			"name": "Bip01 L Foot",
-			"parent": 33
+			"parent": 30
 		}, 
 		{
 			"name": "Bip01 R Leg",
@@ -1447,11 +1425,11 @@
 		}, 
 		{
 			"name": "Bip01 R Leg1",
-			"parent": 35
+			"parent": 32
 		}, 
 		{
 			"name": "Bip01 R Foot",
-			"parent": 36
+			"parent": 33
 		}
 	],
 	"skins": 1,
@@ -1513,87 +1491,21 @@
 		}, 
 		{
 			"flags": 0,
-			"height": 265,
-			"name": "face4.bmp",
-			"width": 240
+			"height": 512,
+			"name": "melp2_face.bmp",
+			"width": 512
 		}, 
 		{
 			"flags": 0,
-			"height": 185,
-			"name": "beckinsale4.bmp",
-			"width": 260
-		}, 
-		{
-			"flags": 0,
-			"height": 56,
-			"name": "eyeball.bmp",
-			"width": 64
-		}, 
-		{
-			"flags": 0,
-			"height": 67,
-			"name": "teeth.bmp",
-			"width": 228
+			"height": 256,
+			"name": "melball_l.bmp",
+			"width": 256
 		}, 
 		{
 			"flags": 0,
 			"height": 73,
 			"name": "knee.bmp",
 			"width": 256
-		}, 
-		{
-			"flags": 0,
-			"height": 512,
-			"name": "Flashlight.bmp",
-			"width": 512
-		}, 
-		{
-			"flags": 4,
-			"height": 512,
-			"name": "kense.bmp",
-			"width": 512
-		}, 
-		{
-			"flags": 3,
-			"height": 64,
-			"name": "led_base_chrome.bmp",
-			"width": 64
-		}, 
-		{
-			"flags": 7,
-			"height": 64,
-			"name": "led_cyellow_chrome.bmp",
-			"width": 64
-		}, 
-		{
-			"flags": 35,
-			"height": 64,
-			"name": "led_refl_chrome.bmp",
-			"width": 64
-		}, 
-		{
-			"flags": 7,
-			"height": 64,
-			"name": "led_cblue_chrome.bmp",
-			"width": 64
-		}, 
-		{
-			"flags": 7,
-			"height": 64,
-			"name": "led_cred_chrome.bmp",
-			"width": 64
-		}, 
-		{
-			"flags": 7,
-			"height": 64,
-			"name": "led_cgreen_chrome.bmp",
-			"width": 64
-		}, 
-		{
-			"flags": 7,
-			"height": 64,
-			"name": "led_corange_chrome.bmp",
-			"width": 64
 		}
 	],
 	"version": 10

@@ -1,0 +1,1 @@
+Install into models/player    should create a folder named admin3
