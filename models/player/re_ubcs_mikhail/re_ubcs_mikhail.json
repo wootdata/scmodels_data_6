@@ -301,8 +301,8 @@
 		}
 	],
 	"id": 1414743113,
-	"md5": "dbcfc17f52e515641a27ef1e0d39b576",
-	"name": "RE_UBCS_Mikhail.mdl",
+	"md5": "941d8a2fb1e4a6d913f75265fbec2cc5",
+	"name": "C:\\Program Files\\Steam\\steamapps\\marb250\\half-life\\SvenCoop\\mode<",
 	"seq_groups": "1",
 	"sequences": [
 		{
@@ -1216,7 +1216,7 @@
 			"name": "ShannonCaldwell_v1.2"
 		}
 	],
-	"size": 1162068,
+	"size": 1170492,
 	"skeleton": [
 		{
 			"name": "Bip01",
@@ -1312,9 +1312,9 @@
 	"textures": [
 		{
 			"flags": 0,
-			"height": 503,
+			"height": 512,
 			"name": "terror_body.bmp",
-			"width": 504
+			"width": 512
 		}, 
 		{
 			"flags": 0,
@@ -1324,7 +1324,7 @@
 		}, 
 		{
 			"flags": 0,
-			"height": 62,
+			"height": 64,
 			"name": "PC_soldier_beret_red.bmp",
 			"width": 128
 		}
