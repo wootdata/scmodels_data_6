@@ -63,6 +63,7 @@
 			"name": "head"
 		}
 	],
+	"colorable": false,
 	"controllers": [
 		{
 			"bone": 2,
@@ -333,7 +334,11 @@
 	],
 	"id": 1414743113,
 	"md5": "a6711dee2da5b2331f5d03f3af81f5da",
+	"metahook_external": false,
+	"metahook_ragdoll": false,
 	"name": "Tony.mdl",
+	"preview": true,
+	"readme": false,
 	"seq_groups": "1",
 	"sequences": [
 		{

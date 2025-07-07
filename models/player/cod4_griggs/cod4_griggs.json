@@ -48,6 +48,7 @@
 			"name": "bomb"
 		}
 	],
+	"colorable": false,
 	"controllers": [
 		{
 			"bone": 8,
@@ -318,7 +319,11 @@
 	],
 	"id": 1414743113,
 	"md5": "23865be509ef504f6e53389eaefb0645",
+	"metahook_external": false,
+	"metahook_ragdoll": false,
 	"name": "cod4_griggs.mdl",
+	"preview": true,
+	"readme": true,
 	"seq_groups": "1",
 	"sequences": [
 		{

@@ -38,6 +38,7 @@
 			"name": "body"
 		}
 	],
+	"colorable": false,
 	"controllers": [
 		{
 			"bone": 8,
@@ -182,7 +183,11 @@
 	],
 	"id": 1414743113,
 	"md5": "d72efa3303fa02e97b4a61df85218846",
+	"metahook_external": false,
+	"metahook_ragdoll": false,
 	"name": "Hitler.mdl",
+	"preview": true,
+	"readme": false,
 	"seq_groups": "1",
 	"sequences": [
 		{

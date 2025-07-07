@@ -53,6 +53,7 @@
 			"name": "body"
 		}
 	],
+	"colorable": true,
 	"controllers": [
 		{
 			"bone": 2,
@@ -323,7 +324,11 @@
 	],
 	"id": 1414743113,
 	"md5": "9dc0c8433d019f7fd03f861de4d98ef5",
+	"metahook_external": false,
+	"metahook_ragdoll": false,
 	"name": "yuri2_hev_noglasses.mdl",
+	"preview": true,
+	"readme": false,
 	"seq_groups": "1",
 	"sequences": [
 		{

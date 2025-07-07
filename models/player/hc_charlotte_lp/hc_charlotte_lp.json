@@ -273,6 +273,7 @@
 			"name": "body"
 		}
 	],
+	"colorable": false,
 	"controllers": [
 		{
 			"bone": 2,
@@ -922,7 +923,11 @@
 	],
 	"id": 1414743113,
 	"md5": "c9210ffb88390e53a2ce518c041452e0",
+	"metahook_external": false,
+	"metahook_ragdoll": false,
 	"name": "hc_charlotte.mdl",
+	"preview": true,
+	"readme": false,
 	"seq_groups": "1",
 	"sequences": [
 		{

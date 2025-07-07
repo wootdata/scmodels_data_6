@@ -78,6 +78,7 @@
 			"name": "Misc"
 		}
 	],
+	"colorable": false,
 	"controllers": [
 		{
 			"bone": 8,
@@ -404,7 +405,11 @@
 	],
 	"id": 1414743113,
 	"md5": "0048675a1f8c34cf8aea844d188e297b",
+	"metahook_external": false,
+	"metahook_ragdoll": false,
 	"name": "[USMC]LCpl_OBrian.mdl",
+	"preview": true,
+	"readme": false,
 	"seq_groups": "1",
 	"sequences": [
 		{

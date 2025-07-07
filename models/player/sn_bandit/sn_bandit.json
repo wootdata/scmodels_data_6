@@ -98,6 +98,7 @@
 			"name": "armor"
 		}
 	],
+	"colorable": false,
 	"controllers": [
 		{
 			"bone": 21,
@@ -668,7 +669,11 @@
 	],
 	"id": 1414743113,
 	"md5": "3ea4c9bb4705906c6b8967f4ba16be55",
+	"metahook_external": false,
+	"metahook_ragdoll": false,
 	"name": "c:\\rewolf/bandit.mdl",
+	"preview": true,
+	"readme": false,
 	"seq_groups": "1",
 	"sequences": [
 		{

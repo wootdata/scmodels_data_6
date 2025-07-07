@@ -12,12 +12,17 @@
 			"name": "studio"
 		}
 	],
+	"colorable": false,
 	"controllers": [],
 	"date": 1538820902,
 	"events": [],
 	"id": 1414743113,
 	"md5": "00ed10d2452a8fb81f8df76cc3bd51be",
+	"metahook_external": false,
+	"metahook_ragdoll": false,
 	"name": "saw_shell.mdl",
+	"preview": false,
+	"readme": false,
 	"seq_groups": "1",
 	"sequences": [
 		{

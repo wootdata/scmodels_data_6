@@ -53,6 +53,7 @@
 			"name": "body"
 		}
 	],
+	"colorable": false,
 	"controllers": [
 		{
 			"bone": 2,
@@ -379,7 +380,11 @@
 	],
 	"id": 1414743113,
 	"md5": "9ebd967513afa1689375c5a75a60c7f4",
+	"metahook_external": false,
+	"metahook_ragdoll": false,
 	"name": "dod_a_mg_nh.mdl",
+	"preview": true,
+	"readme": false,
 	"seq_groups": "1",
 	"sequences": [
 		{

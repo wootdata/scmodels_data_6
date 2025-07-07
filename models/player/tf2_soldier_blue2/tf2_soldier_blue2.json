@@ -63,6 +63,7 @@
 			"name": "grenade"
 		}
 	],
+	"colorable": false,
 	"controllers": [
 		{
 			"bone": 2,
@@ -389,7 +390,11 @@
 	],
 	"id": 1414743113,
 	"md5": "589449fc27b9ffa41f39bd8bdfe2dfc1",
+	"metahook_external": false,
+	"metahook_ragdoll": false,
 	"name": "tf2_soldier_blue.mdl",
+	"preview": true,
+	"readme": true,
 	"seq_groups": "1",
 	"sequences": [
 		{

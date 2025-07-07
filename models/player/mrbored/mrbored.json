@@ -43,6 +43,7 @@
 			"name": "head"
 		}
 	],
+	"colorable": false,
 	"controllers": [
 		{
 			"bone": 8,
@@ -271,7 +272,11 @@
 	],
 	"id": 1414743113,
 	"md5": "ba05325f12d6f2bcc1634303908eff60",
+	"metahook_external": false,
+	"metahook_ragdoll": false,
 	"name": "Sven.mdl",
+	"preview": true,
+	"readme": false,
 	"seq_groups": "1",
 	"sequences": [
 		{

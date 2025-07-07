@@ -93,6 +93,7 @@
 			"name": "equip"
 		}
 	],
+	"colorable": false,
 	"controllers": [
 		{
 			"bone": 2,
@@ -363,7 +364,11 @@
 	],
 	"id": 1414743113,
 	"md5": "bf6291a23af00ec229c4f3bb90ba43e0",
+	"metahook_external": false,
+	"metahook_ragdoll": false,
 	"name": "ioaf_denti.mdl",
+	"preview": true,
+	"readme": false,
 	"seq_groups": "1",
 	"sequences": [
 		{

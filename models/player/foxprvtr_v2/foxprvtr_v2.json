@@ -28,6 +28,7 @@
 			"name": "body"
 		}
 	],
+	"colorable": false,
 	"controllers": [
 		{
 			"bone": 22,
@@ -298,7 +299,11 @@
 	],
 	"id": 1414743113,
 	"md5": "214e103bb089846f70eed84456eafbaf",
+	"metahook_external": false,
+	"metahook_ragdoll": false,
 	"name": "foxprvtr.mdl",
+	"preview": true,
+	"readme": false,
 	"seq_groups": "1",
 	"sequences": [
 		{

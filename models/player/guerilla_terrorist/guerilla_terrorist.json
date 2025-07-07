@@ -43,6 +43,7 @@
 			"name": "C4"
 		}
 	],
+	"colorable": false,
 	"controllers": [
 		{
 			"bone": 10,
@@ -313,7 +314,11 @@
 	],
 	"id": 1414743113,
 	"md5": "5f47058e71ad41d2835a1ef6bd8c0fe2",
+	"metahook_external": false,
+	"metahook_ragdoll": false,
 	"name": "guerilla_terrorist.mdl",
+	"preview": true,
+	"readme": false,
 	"seq_groups": "1",
 	"sequences": [
 		{

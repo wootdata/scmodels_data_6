@@ -33,6 +33,7 @@
 			"name": "body"
 		}
 	],
+	"colorable": false,
 	"controllers": [
 		{
 			"bone": 12,
@@ -269,7 +270,11 @@
 	],
 	"id": 1414743113,
 	"md5": "7f42ba0e19cd1614e754785abfcdb92e",
+	"metahook_external": false,
+	"metahook_ragdoll": false,
 	"name": "D:\\Games\\Steam1055245\\SteamApps\\scottyzebra\\half-life\\SvenCoop\\m`I",
+	"preview": true,
+	"readme": false,
 	"seq_groups": "1",
 	"sequences": [
 		{

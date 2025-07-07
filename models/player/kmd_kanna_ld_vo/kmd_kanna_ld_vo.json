@@ -158,6 +158,7 @@
 			"name": "body"
 		}
 	],
+	"colorable": false,
 	"controllers": [
 		{
 			"bone": 2,
@@ -492,7 +493,11 @@
 	],
 	"id": 1414743113,
 	"md5": "c86489efe758e6ff5a97e16026744f4d",
+	"metahook_external": false,
+	"metahook_ragdoll": false,
 	"name": "kmd_kanna_ld.mdl",
+	"preview": true,
+	"readme": false,
 	"seq_groups": "1",
 	"sequences": [
 		{

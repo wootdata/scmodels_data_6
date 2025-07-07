@@ -43,6 +43,7 @@
 			"name": "NEWPARTS"
 		}
 	],
+	"colorable": false,
 	"controllers": [
 		{
 			"bone": 8,
@@ -313,7 +314,11 @@
 	],
 	"id": 1414743113,
 	"md5": "ee7eaf75739defa55d45208fe829391b",
+	"metahook_external": false,
+	"metahook_ragdoll": false,
 	"name": "morass_rat.mdl",
+	"preview": true,
+	"readme": false,
 	"seq_groups": "1",
 	"sequences": [
 		{

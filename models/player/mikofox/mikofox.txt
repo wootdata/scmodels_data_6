@@ -18,3 +18,13 @@ Is not to be destributed by anyone unless you contact me (Miko at ordos10191@msn
 
 
 Thank you and have a nice day.
+
+----------------
+sc5.0update.txt
+----------------
+2016/06/20
+
+SC5.0 Animation.
+Height fix.
+Texture fix.
+Add mikofoxsuit(can edit color)

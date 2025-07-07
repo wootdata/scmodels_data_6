@@ -33,6 +33,7 @@
 			"name": "LODS"
 		}
 	],
+	"colorable": false,
 	"controllers": [
 		{
 			"bone": 12,
@@ -303,7 +304,11 @@
 	],
 	"id": 1414743113,
 	"md5": "2f7946efd484320d80697303163040b4",
+	"metahook_external": false,
+	"metahook_ragdoll": false,
 	"name": "dm_slav.mdl",
+	"preview": true,
+	"readme": false,
 	"seq_groups": "1",
 	"sequences": [
 		{

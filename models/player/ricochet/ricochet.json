@@ -43,6 +43,7 @@
 			"name": "heads"
 		}
 	],
+	"colorable": true,
 	"controllers": [
 		{
 			"bone": 8,
@@ -313,7 +314,11 @@
 	],
 	"id": 1414743113,
 	"md5": "0d8e2d8c5e69f6b8cfe637b3d3928c79",
+	"metahook_external": false,
+	"metahook_ragdoll": false,
 	"name": "ricochet.mdl",
+	"preview": true,
+	"readme": false,
 	"seq_groups": "1",
 	"sequences": [
 		{

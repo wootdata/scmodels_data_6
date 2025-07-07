@@ -33,6 +33,7 @@
 			"name": "KOS"
 		}
 	],
+	"colorable": false,
 	"controllers": [
 		{
 			"bone": 8,
@@ -303,7 +304,11 @@
 	],
 	"id": 1414743113,
 	"md5": "b694fb9412adb66e097b4174129dd73f",
+	"metahook_external": false,
+	"metahook_ragdoll": false,
 	"name": "Halo_ODST.mdl",
+	"preview": true,
+	"readme": false,
 	"seq_groups": "1",
 	"sequences": [
 		{

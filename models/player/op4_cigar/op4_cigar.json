@@ -33,6 +33,7 @@
 			"name": "body"
 		}
 	],
+	"colorable": true,
 	"controllers": [
 		{
 			"bone": 2,
@@ -303,7 +304,11 @@
 	],
 	"id": 1414743113,
 	"md5": "28c4e0f566c68ae5cedbbb7e32f93256",
+	"metahook_external": false,
+	"metahook_ragdoll": false,
 	"name": "OP4_Cigar/OP4_Cigar.mdl",
+	"preview": true,
+	"readme": false,
 	"seq_groups": "1",
 	"sequences": [
 		{

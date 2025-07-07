@@ -1,6 +1,0 @@
-2016/06/20
-
-SC5.0 Animation.
-Height fix.
-Texture fix.
-Add mikofoxsuit(can edit color)

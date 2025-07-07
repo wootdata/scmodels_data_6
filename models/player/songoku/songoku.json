@@ -18,6 +18,7 @@
 			"name": "body"
 		}
 	],
+	"colorable": false,
 	"controllers": [],
 	"date": 1269931277,
 	"events": [
@@ -255,7 +256,11 @@
 	],
 	"id": 1414743113,
 	"md5": "e5561f0bb02500df16f6965b6138ebbc",
+	"metahook_external": false,
+	"metahook_ragdoll": false,
 	"name": "songoku.mdl",
+	"preview": true,
+	"readme": false,
 	"seq_groups": "1",
 	"sequences": [
 		{

@@ -353,6 +353,7 @@
 			"name": "body"
 		}
 	],
+	"colorable": false,
 	"controllers": [
 		{
 			"bone": 2,
@@ -960,7 +961,11 @@
 	],
 	"id": 1414743113,
 	"md5": "ebbb5e99a2b95b9891de12b87f44d98f",
+	"metahook_external": false,
+	"metahook_ragdoll": false,
 	"name": "H_Hololive_Marine.mdl",
+	"preview": true,
+	"readme": false,
 	"seq_groups": "1",
 	"sequences": [
 		{

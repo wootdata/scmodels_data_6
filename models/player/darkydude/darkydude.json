@@ -33,6 +33,7 @@
 			"name": "body"
 		}
 	],
+	"colorable": true,
 	"controllers": [
 		{
 			"bone": 8,
@@ -177,7 +178,11 @@
 	],
 	"id": 1414743113,
 	"md5": "e8c8db31e672b30bd3888dc15d9d3c35",
+	"metahook_external": false,
+	"metahook_ragdoll": false,
 	"name": "valve/models/player/Gordon/Gordon.mdl",
+	"preview": false,
+	"readme": false,
 	"seq_groups": "1",
 	"sequences": [
 		{

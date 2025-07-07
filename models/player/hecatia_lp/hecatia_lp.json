@@ -33,6 +33,7 @@
 			"name": "body"
 		}
 	],
+	"colorable": false,
 	"controllers": [
 		{
 			"bone": 2,
@@ -297,7 +298,11 @@
 	],
 	"id": 1414743113,
 	"md5": "bb65128df0b2cbcad13f6652f490f65d",
+	"metahook_external": false,
+	"metahook_ragdoll": false,
 	"name": "Hecatia_LP.mdl",
+	"preview": true,
+	"readme": false,
 	"seq_groups": "1",
 	"sequences": [
 		{

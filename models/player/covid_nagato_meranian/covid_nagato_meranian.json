@@ -263,6 +263,7 @@
 			"name": "body"
 		}
 	],
+	"colorable": true,
 	"controllers": [
 		{
 			"bone": 2,
@@ -534,7 +535,11 @@
 	],
 	"id": 1414743113,
 	"md5": "6addf10546a69b6dfbea88746b552109",
+	"metahook_external": false,
+	"metahook_ragdoll": false,
 	"name": "corona_chan_merania.mdl",
+	"preview": false,
+	"readme": false,
 	"seq_groups": "1",
 	"sequences": [
 		{

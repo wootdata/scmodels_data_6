@@ -143,6 +143,7 @@
 			"name": "hands"
 		}
 	],
+	"colorable": false,
 	"controllers": [
 		{
 			"bone": 2,
@@ -379,7 +380,11 @@
 	],
 	"id": 1414743113,
 	"md5": "824d114603478fd4bcb653627eb904a2",
+	"metahook_external": false,
+	"metahook_ragdoll": false,
 	"name": "Madoka_Kaname.mdl",
+	"preview": true,
+	"readme": false,
 	"seq_groups": "1",
 	"sequences": [
 		{

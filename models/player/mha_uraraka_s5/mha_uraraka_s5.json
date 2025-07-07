@@ -122,6 +122,7 @@
 			"name": "body"
 		}
 	],
+	"colorable": false,
 	"controllers": [
 		{
 			"bone": 2,
@@ -787,7 +788,11 @@
 	],
 	"id": 1414743113,
 	"md5": "b96f39df219a30fa0c43cb950d7e43a8",
+	"metahook_external": false,
+	"metahook_ragdoll": false,
 	"name": "MHA_Uraraka_S5.mdl",
+	"preview": true,
+	"readme": false,
 	"seq_groups": "1",
 	"sequences": [
 		{

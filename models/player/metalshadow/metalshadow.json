@@ -33,6 +33,7 @@
 			"name": "Shadow_the_Hegdehog"
 		}
 	],
+	"colorable": false,
 	"controllers": [
 		{
 			"bone": 13,
@@ -279,7 +280,11 @@
 	],
 	"id": 1414743113,
 	"md5": "aad689a77ecfc0bc02cb8e4f5f5e6ebb",
+	"metahook_external": false,
+	"metahook_ragdoll": false,
 	"name": "metalshadow.mdl",
+	"preview": true,
+	"readme": false,
 	"seq_groups": "1",
 	"sequences": [
 		{

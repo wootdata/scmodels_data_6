@@ -253,6 +253,7 @@
 			"name": "slipperP5"
 		}
 	],
+	"colorable": false,
 	"controllers": [
 		{
 			"bone": 2,
@@ -524,7 +525,11 @@
 	],
 	"id": 1414743113,
 	"md5": "f04b894898b5989f82a5987913f1e764",
+	"metahook_external": false,
+	"metahook_ragdoll": false,
 	"name": "nikke_alice.mdl",
+	"preview": true,
+	"readme": false,
 	"seq_groups": "1",
 	"sequences": [
 		{

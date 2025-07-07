@@ -33,6 +33,7 @@
 			"name": "marine"
 		}
 	],
+	"colorable": false,
 	"controllers": [
 		{
 			"bone": 8,
@@ -261,7 +262,11 @@
 	],
 	"id": 1414743113,
 	"md5": "0b422248b0d6e4bb517e27a0b01121fa",
+	"metahook_external": false,
+	"metahook_ragdoll": false,
 	"name": "NS_SpecOPSgrn.mdl",
+	"preview": true,
+	"readme": false,
 	"seq_groups": "1",
 	"sequences": [
 		{

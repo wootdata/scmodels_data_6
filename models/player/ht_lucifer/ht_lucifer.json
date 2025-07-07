@@ -173,6 +173,7 @@
 			"name": "body"
 		}
 	],
+	"colorable": false,
 	"controllers": [
 		{
 			"bone": 2,
@@ -822,7 +823,11 @@
 	],
 	"id": 1414743113,
 	"md5": "f0386d07b3c02b220001fdba497f469b",
+	"metahook_external": true,
+	"metahook_ragdoll": false,
 	"name": "HT_Lucifer.mdl",
+	"preview": true,
+	"readme": false,
 	"seq_groups": "1",
 	"sequences": [
 		{

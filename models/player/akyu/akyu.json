@@ -63,6 +63,7 @@
 			"name": "hina"
 		}
 	],
+	"colorable": false,
 	"controllers": [
 		{
 			"bone": 2,
@@ -333,7 +334,11 @@
 	],
 	"id": 1414743113,
 	"md5": "c8127640d5fc15b02f67ff367f5ce8bd",
+	"metahook_external": false,
+	"metahook_ragdoll": false,
 	"name": "akyu.mdl",
+	"preview": true,
+	"readme": false,
 	"seq_groups": "1",
 	"sequences": [
 		{

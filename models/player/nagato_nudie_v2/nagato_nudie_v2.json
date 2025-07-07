@@ -153,6 +153,7 @@
 			"name": "body"
 		}
 	],
+	"colorable": false,
 	"controllers": [
 		{
 			"bone": 2,
@@ -818,7 +819,11 @@
 	],
 	"id": 1414743113,
 	"md5": "2c187c2dc1cb18da744db8bbfd3c7aca",
+	"metahook_external": false,
+	"metahook_ragdoll": false,
 	"name": "nagato_nudie.mdl",
+	"preview": true,
+	"readme": false,
 	"seq_groups": "1",
 	"sequences": [
 		{

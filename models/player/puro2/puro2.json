@@ -83,6 +83,7 @@
 			"name": "Fur3"
 		}
 	],
+	"colorable": false,
 	"controllers": [
 		{
 			"bone": 2,
@@ -361,7 +362,11 @@
 	],
 	"id": 1414743113,
 	"md5": "54d6f511bf6ec3023220dfaf4f5d5b4c",
+	"metahook_external": false,
+	"metahook_ragdoll": false,
 	"name": "puro.mdl",
+	"preview": true,
+	"readme": false,
 	"seq_groups": "1",
 	"sequences": [
 		{

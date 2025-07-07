@@ -33,6 +33,7 @@
 			"name": "Biker_Crash"
 		}
 	],
+	"colorable": false,
 	"controllers": [
 		{
 			"bone": 8,
@@ -366,7 +367,11 @@
 	],
 	"id": 1414743113,
 	"md5": "c8650b0bbc59fdb698dea8dd7007ccaa",
+	"metahook_external": false,
+	"metahook_ragdoll": false,
 	"name": "Biker_Crash.mdl",
+	"preview": true,
+	"readme": false,
 	"seq_groups": "1",
 	"sequences": [
 		{

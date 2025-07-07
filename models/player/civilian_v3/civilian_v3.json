@@ -33,6 +33,7 @@
 			"name": "body"
 		}
 	],
+	"colorable": true,
 	"controllers": [
 		{
 			"bone": 8,
@@ -233,7 +234,11 @@
 	],
 	"id": 1414743113,
 	"md5": "f33c9ed82686f013f2271b8b31d31f8c",
+	"metahook_external": false,
+	"metahook_ragdoll": false,
 	"name": "tfc/models/player/civilian/civilian.mdl",
+	"preview": true,
+	"readme": false,
 	"seq_groups": "1",
 	"sequences": [
 		{

@@ -33,6 +33,7 @@
 			"name": "body"
 		}
 	],
+	"colorable": true,
 	"controllers": [
 		{
 			"bone": 8,
@@ -303,7 +304,11 @@
 	],
 	"id": 1414743113,
 	"md5": "56fa13a3f270cccfd1ecd21ece3501da",
+	"metahook_external": false,
+	"metahook_ragdoll": false,
 	"name": "C:\\Users\\CryoKeen\\Desktop\\cryokeenbeta\\cryokeenbeta2.mdl",
+	"preview": true,
+	"readme": false,
 	"seq_groups": "1",
 	"sequences": [
 		{

@@ -33,6 +33,7 @@
 			"name": "body"
 		}
 	],
+	"colorable": false,
 	"controllers": [
 		{
 			"bone": 10,
@@ -4153,7 +4154,11 @@
 	],
 	"id": 1414743113,
 	"md5": "26b8d1393c7f9a63bc5a67eac48ce516",
+	"metahook_external": false,
+	"metahook_ragdoll": false,
 	"name": "E:\\ahl\\vamp\\vamp1.mdl",
+	"preview": true,
+	"readme": true,
 	"seq_groups": "1",
 	"sequences": [
 		{

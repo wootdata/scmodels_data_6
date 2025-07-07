@@ -43,6 +43,7 @@
 			"name": "body"
 		}
 	],
+	"colorable": false,
 	"controllers": [
 		{
 			"bone": 2,
@@ -313,7 +314,11 @@
 	],
 	"id": 1414743113,
 	"md5": "d47d5248fb2aed51cc3dd7437c5cc2a6",
+	"metahook_external": false,
+	"metahook_ragdoll": false,
 	"name": "tj_jerry.mdl",
+	"preview": true,
+	"readme": false,
 	"seq_groups": "1",
 	"sequences": [
 		{

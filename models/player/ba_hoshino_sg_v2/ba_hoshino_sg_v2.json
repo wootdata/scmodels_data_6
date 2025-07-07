@@ -143,6 +143,7 @@
 			"name": "body"
 		}
 	],
+	"colorable": false,
 	"controllers": [
 		{
 			"bone": 2,
@@ -784,7 +785,11 @@
 	],
 	"id": 1414743113,
 	"md5": "6a908db9574af6f94becd0b46d978a37",
+	"metahook_external": true,
+	"metahook_ragdoll": false,
 	"name": "GI_Yanfei.mdl",
+	"preview": true,
+	"readme": false,
 	"seq_groups": "1",
 	"sequences": [
 		{

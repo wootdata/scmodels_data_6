@@ -53,6 +53,7 @@
 			"name": "body"
 		}
 	],
+	"colorable": true,
 	"controllers": [
 		{
 			"bone": 8,
@@ -323,7 +324,11 @@
 	],
 	"id": 1414743113,
 	"md5": "dfa4912bb44a830b128ff2f86d46fbe7",
+	"metahook_external": false,
+	"metahook_ragdoll": false,
 	"name": "Bathus_rgrunt_V2.mdl",
+	"preview": true,
+	"readme": false,
 	"seq_groups": "1",
 	"sequences": [
 		{

@@ -12,6 +12,7 @@
 			"name": "bopdy"
 		}
 	],
+	"colorable": false,
 	"controllers": [],
 	"date": 1266934937,
 	"events": [
@@ -249,7 +250,11 @@
 	],
 	"id": 1414743113,
 	"md5": "40ecd0b8238cb6d06f13158fa3d972a3",
+	"metahook_external": false,
+	"metahook_ragdoll": false,
 	"name": "dc_ball.mdl",
+	"preview": true,
+	"readme": false,
 	"seq_groups": "1",
 	"sequences": [
 		{

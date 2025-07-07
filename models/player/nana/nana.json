@@ -218,6 +218,7 @@
 			"name": "body"
 		}
 	],
+	"colorable": false,
 	"controllers": [
 		{
 			"bone": 2,
@@ -552,7 +553,11 @@
 	],
 	"id": 1414743113,
 	"md5": "293859af21dc247ab440cd5f58807470",
+	"metahook_external": false,
+	"metahook_ragdoll": false,
 	"name": "Nana.mdl",
+	"preview": true,
+	"readme": false,
 	"seq_groups": "1",
 	"sequences": [
 		{

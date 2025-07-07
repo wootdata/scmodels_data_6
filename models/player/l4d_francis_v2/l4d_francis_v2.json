@@ -43,6 +43,7 @@
 			"name": "studio"
 		}
 	],
+	"colorable": false,
 	"controllers": [
 		{
 			"bone": 8,
@@ -320,7 +321,11 @@
 	],
 	"id": 1414743113,
 	"md5": "704c6b8ce24615bc026b802ae637f893",
+	"metahook_external": false,
+	"metahook_ragdoll": false,
 	"name": "L4D_Francis.mdl",
+	"preview": true,
+	"readme": false,
 	"seq_groups": "1",
 	"sequences": [
 		{
