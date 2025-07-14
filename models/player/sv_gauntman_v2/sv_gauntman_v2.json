@@ -306,6 +306,7 @@
 	"md5": "aee4999229fe55d2152575570f974e60",
 	"metahook_external": false,
 	"metahook_ragdoll": false,
+	"modid": 7,
 	"name": "sv_gauntman.mdl",
 	"preview": true,
 	"readme": false,
