@@ -68,7 +68,7 @@
 			"type": 8
 		}
 	],
-	"date": 1190313540,
+	"date": 1780811526,
 	"events": [
 		{
 			"event": 0,
@@ -187,6 +187,7 @@
 	"md5": "d09ad2735d6260fc15edb11ae9da16ce",
 	"metahook_external": false,
 	"metahook_ragdoll": false,
+	"modid": 2,
 	"name": "c:/game/halflife/valve/models/player/custom/highcount/hikaru/hik`C",
 	"preview": true,
 	"readme": false,

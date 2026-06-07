@@ -68,7 +68,7 @@
 			"type": 8
 		}
 	],
-	"date": 1121427900,
+	"date": 1780811526,
 	"events": [
 		{
 			"event": 2001,
@@ -180,6 +180,7 @@
 	"md5": "e8c8db31e672b30bd3888dc15d9d3c35",
 	"metahook_external": false,
 	"metahook_ragdoll": false,
+	"modid": 2,
 	"name": "valve/models/player/Gordon/Gordon.mdl",
 	"preview": false,
 	"readme": false,

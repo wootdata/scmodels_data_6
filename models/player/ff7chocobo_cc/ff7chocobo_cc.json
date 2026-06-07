@@ -1,22 +1,22 @@
 {
 	"attachments": [
 		{
-			"bone": 14,
+			"bone": 21,
 			"name": "",
 			"type": 0
 		}, 
 		{
-			"bone": 14,
+			"bone": 21,
 			"name": "",
 			"type": 0
 		}, 
 		{
-			"bone": 14,
+			"bone": 21,
 			"name": "",
 			"type": 0
 		}, 
 		{
-			"bone": 10,
+			"bone": 17,
 			"name": "",
 			"type": 0
 		}
@@ -25,18 +25,18 @@
 		{
 			"models": [
 				{
-					"name": "MARIO_WAAHOO",
-					"polys": 3696,
-					"verts": 1919
+					"name": "Chocobo",
+					"polys": 1032,
+					"verts": 523
 				}
 			],
-			"name": "IM HAVING A STROKE"
+			"name": "body"
 		}
 	],
 	"colorable": true,
 	"controllers": [
 		{
-			"bone": 2,
+			"bone": 8,
 			"end": 30.000000,
 			"index": 0,
 			"rest": 0,
@@ -44,7 +44,7 @@
 			"type": 8
 		}, 
 		{
-			"bone": 3,
+			"bone": 9,
 			"end": 30.000000,
 			"index": 1,
 			"rest": 0,
@@ -52,7 +52,7 @@
 			"type": 8
 		}, 
 		{
-			"bone": 4,
+			"bone": 10,
 			"end": 30.000000,
 			"index": 2,
 			"rest": 0,
@@ -60,35 +60,27 @@
 			"type": 8
 		}, 
 		{
-			"bone": 5,
+			"bone": 11,
 			"end": 30.000000,
 			"index": 3,
 			"rest": 0,
 			"start": -30.000000,
 			"type": 8
-		}, 
-		{
-			"bone": 16,
-			"end": -5.000000,
-			"index": 4,
-			"rest": 0,
-			"start": 0.000000,
-			"type": 1
 		}
 	],
-	"date": 1780811526,
+	"date": 1774796884,
 	"events": [
 		{
 			"event": 5004,
-			"frame": 2,
-			"options": "player/playersounds/toad/jump.wav",
+			"frame": 0,
+			"options": "player/playersounds/FFChocobo/ff7/bounce.wav",
 			"sequence": 8,
 			"type": 0
 		}, 
 		{
 			"event": 5004,
-			"frame": 2,
-			"options": "player/playersounds/toad/long_jump.wav",
+			"frame": 0,
+			"options": "player/playersounds/FFChocobo/ff7/bounce.wav",
 			"sequence": 9,
 			"type": 0
 		}, 
@@ -143,37 +135,23 @@
 		}, 
 		{
 			"event": 5004,
-			"frame": 2,
-			"options": "player/playersounds/toad/melee_attack.wav",
-			"sequence": 21,
+			"frame": 0,
+			"options": "player/playersounds/FFChocobo/ff7/wark.wav",
+			"sequence": 31,
 			"type": 0
 		}, 
 		{
 			"event": 5004,
-			"frame": 2,
-			"options": "player/playersounds/toad/big_attack.wav",
-			"sequence": 27,
+			"frame": 0,
+			"options": "player/playersounds/FFChocobo/ff7/kweh.wav",
+			"sequence": 41,
 			"type": 0
 		}, 
 		{
 			"event": 5004,
-			"frame": 2,
-			"options": "player/playersounds/toad/big_attack.wav",
-			"sequence": 30,
-			"type": 0
-		}, 
-		{
-			"event": 5004,
-			"frame": 2,
-			"options": "player/playersounds/toad/grenade.wav",
-			"sequence": 35,
-			"type": 0
-		}, 
-		{
-			"event": 5004,
-			"frame": 2,
-			"options": "player/playersounds/toad/grenade.wav",
-			"sequence": 40,
+			"frame": 0,
+			"options": "player/playersounds/FFChocobo/ff7/kweh.wav",
+			"sequence": 44,
 			"type": 0
 		}, 
 		{
@@ -205,31 +183,66 @@
 			"type": 0
 		}, 
 		{
-			"event": 5005,
+			"event": 5011,
 			"frame": 0,
-			"options": "muzzle_SG.txt",
+			"options": "15",
 			"sequence": 65,
 			"type": 0
 		}, 
 		{
-			"event": 5005,
+			"event": 5011,
 			"frame": 0,
-			"options": "muzzle_SG.txt",
+			"options": "15",
 			"sequence": 69,
 			"type": 0
 		}, 
 		{
-			"event": 5005,
+			"event": 5011,
 			"frame": 0,
-			"options": "muzzle_MP5.txt",
+			"options": "20",
 			"sequence": 79,
 			"type": 0
 		}, 
 		{
-			"event": 5005,
+			"event": 5011,
 			"frame": 0,
-			"options": "muzzle_MP5.txt",
+			"options": "20",
 			"sequence": 83,
+			"type": 0
+		}, 
+		{
+			"event": 5004,
+			"frame": 0,
+			"options": "player/playersounds/FFChocobo//ff7/wooheewoo.wav",
+			"sequence": 85,
+			"type": 0
+		}, 
+		{
+			"event": 5004,
+			"frame": 0,
+			"options": "player/playersounds/FFChocobo/ff7/wooheewoo.wav",
+			"sequence": 89,
+			"type": 0
+		}, 
+		{
+			"event": 5004,
+			"frame": 1,
+			"options": "player/playersounds/FFChocobo/ff7/wooheewoo2.wav",
+			"sequence": 93,
+			"type": 0
+		}, 
+		{
+			"event": 5004,
+			"frame": 1,
+			"options": "player/playersounds/FFChocobo/ff7/wooheewoo2.wav",
+			"sequence": 96,
+			"type": 0
+		}, 
+		{
+			"event": 5004,
+			"frame": 0,
+			"options": "player/playersounds/FFChocobo/ff7/wark.wav",
+			"sequence": 123,
 			"type": 0
 		}, 
 		{
@@ -237,6 +250,13 @@
 			"frame": 0,
 			"options": "20",
 			"sequence": 125,
+			"type": 0
+		}, 
+		{
+			"event": 5004,
+			"frame": 0,
+			"options": "player/playersounds/FFChocobo/ff7/wark.wav",
+			"sequence": 126,
 			"type": 0
 		}, 
 		{
@@ -345,10 +365,24 @@
 			"type": 0
 		}, 
 		{
+			"event": 5004,
+			"frame": 0,
+			"options": "player/playersounds/FFChocobo/ff7/wark.wav",
+			"sequence": 169,
+			"type": 0
+		}, 
+		{
 			"event": 5005,
 			"frame": 0,
 			"options": "muzzle_spaw.txt",
 			"sequence": 171,
+			"type": 0
+		}, 
+		{
+			"event": 5004,
+			"frame": 0,
+			"options": "player/playersounds/FFChocobo/ff7/wark.wav",
+			"sequence": 173,
 			"type": 0
 		}, 
 		{
@@ -360,27 +394,34 @@
 		}, 
 		{
 			"event": 5004,
-			"frame": 1,
-			"options": "player/playersounds/toad/death.wav",
+			"frame": 0,
+			"options": "player/playersounds/FFChocobo/ff7/chocobuckle.wav",
+			"sequence": 181,
+			"type": 0
+		}, 
+		{
+			"event": 5004,
+			"frame": 0,
+			"options": "player/playersounds/FFChocobo/ff7/deathsentence.wav",
 			"sequence": 182,
 			"type": 0
 		}, 
 		{
 			"event": 5004,
-			"frame": 1,
-			"options": "player/playersounds/toad/death2.wav",
+			"frame": 0,
+			"options": "player/playersounds/FFChocobo/ff7/wark.wav",
 			"sequence": 184,
 			"type": 0
 		}
 	],
 	"id": 1414743113,
-	"md5": "37df3f56a4c2ea87f5ff06678ad6fb60",
+	"md5": "80625c344ce4e95ffb60085c9aab4f40",
 	"metahook_external": false,
 	"metahook_ragdoll": false,
 	"modid": 7,
-	"name": "MP_ToadC_BIG.mdl",
+	"name": "FF7Chocobo_CC.mdl",
 	"preview": true,
-	"readme": false,
+	"readme": true,
 	"seq_groups": "1",
 	"sequences": [
 		{
@@ -1289,9 +1330,9 @@
 			"name": "deadtable"
 		}, 
 		{
-			"fps": 10.000000,
-			"frames": 1,
-			"name": "ShannonCaldwell_v1.2"
+			"fps": 48.000000,
+			"frames": 83,
+			"name": "chocobo_spin"
 		}, 
 		{
 			"fps": 20.000000,
@@ -1339,7 +1380,7 @@
 			"name": "action_wave"
 		}
 	],
-	"size": 1424768,
+	"size": 1214424,
 	"skeleton": [
 		{
 			"name": "Bip01",
@@ -1350,76 +1391,16 @@
 			"parent": 0
 		}, 
 		{
-			"name": "Bip01 Spine",
-			"parent": 1
-		}, 
-		{
-			"name": "Bip01 Spine1",
-			"parent": 2
-		}, 
-		{
-			"name": "Bip01 Spine2",
-			"parent": 3
-		}, 
-		{
-			"name": "Bip01 Spine3",
-			"parent": 4
-		}, 
-		{
-			"name": "Bip01 Neck",
-			"parent": 5
-		}, 
-		{
-			"name": "Bip01 L Arm",
-			"parent": 6
-		}, 
-		{
-			"name": "Bip01 L Arm1",
-			"parent": 7
-		}, 
-		{
-			"name": "Bip01 L Arm2",
-			"parent": 8
-		}, 
-		{
-			"name": "Bip01 L Hand",
-			"parent": 9
-		}, 
-		{
-			"name": "Bip01 R Arm",
-			"parent": 6
-		}, 
-		{
-			"name": "Bip01 R Arm1",
-			"parent": 11
-		}, 
-		{
-			"name": "Bip01 R Arm2",
-			"parent": 12
-		}, 
-		{
-			"name": "Bip01 R Hand",
-			"parent": 13
-		}, 
-		{
-			"name": "Bip01 Head",
-			"parent": 6
-		}, 
-		{
-			"name": "mouth",
-			"parent": 15
-		}, 
-		{
 			"name": "Bip01 L Leg",
 			"parent": 1
 		}, 
 		{
 			"name": "Bip01 L Leg1",
-			"parent": 17
+			"parent": 2
 		}, 
 		{
 			"name": "Bip01 L Foot",
-			"parent": 18
+			"parent": 3
 		}, 
 		{
 			"name": "Bip01 R Leg",
@@ -1427,33 +1408,89 @@
 		}, 
 		{
 			"name": "Bip01 R Leg1",
-			"parent": 20
+			"parent": 5
 		}, 
 		{
 			"name": "Bip01 R Foot",
-			"parent": 21
+			"parent": 6
+		}, 
+		{
+			"name": "Bip01 Spine",
+			"parent": 1
+		}, 
+		{
+			"name": "Bip01 Spine1",
+			"parent": 8
+		}, 
+		{
+			"name": "Bip01 Spine2",
+			"parent": 9
+		}, 
+		{
+			"name": "Bip01 Spine3",
+			"parent": 10
+		}, 
+		{
+			"name": "Bip01 Neck",
+			"parent": 11
+		}, 
+		{
+			"name": "Bip01 Head",
+			"parent": 12
+		}, 
+		{
+			"name": "Bip01 L Arm",
+			"parent": 12
+		}, 
+		{
+			"name": "Bip01 L Arm1",
+			"parent": 14
+		}, 
+		{
+			"name": "Bip01 L Arm2",
+			"parent": 15
+		}, 
+		{
+			"name": "Bip01 L Hand",
+			"parent": 16
+		}, 
+		{
+			"name": "Bip01 R Arm",
+			"parent": 12
+		}, 
+		{
+			"name": "Bip01 R Arm1",
+			"parent": 18
+		}, 
+		{
+			"name": "Bip01 R Arm2",
+			"parent": 19
+		}, 
+		{
+			"name": "Bip01 R Hand",
+			"parent": 20
 		}
 	],
 	"skins": 1,
 	"t_model": false,
 	"textures": [
 		{
-			"flags": 0,
+			"flags": 64,
 			"height": 512,
-			"name": "remap1_000_255_255.bmp",
+			"name": "Remap1_104_222_255.bmp",
 			"width": 512
 		}, 
 		{
-			"flags": 0,
+			"flags": 64,
 			"height": 512,
-			"name": "Toad_body.bmp",
-			"width": 512
+			"name": "Remap2_104_222_255.bmp",
+			"width": 256
 		}, 
 		{
-			"flags": 0,
-			"height": 64,
-			"name": "Toad_eye.bmp",
-			"width": 32
+			"flags": 32,
+			"height": 1,
+			"name": "Default.bmp",
+			"width": 4
 		}
 	],
 	"version": 10

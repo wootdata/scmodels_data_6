@@ -63,7 +63,7 @@
 			"type": 8
 		}
 	],
-	"date": 1185447292,
+	"date": 1780811526,
 	"events": [
 		{
 			"event": 2001,
@@ -175,6 +175,7 @@
 	"md5": "4d78b75a54e999463a0a299f4b70d454",
 	"metahook_external": false,
 	"metahook_ragdoll": false,
+	"modid": 2,
 	"name": "cannon_guy.mdl",
 	"preview": true,
 	"readme": true,

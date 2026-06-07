@@ -68,7 +68,7 @@
 			"type": 8
 		}
 	],
-	"date": 1600158532,
+	"date": 1780811526,
 	"events": [
 		{
 			"event": 2001,
@@ -236,6 +236,7 @@
 	"md5": "f33c9ed82686f013f2271b8b31d31f8c",
 	"metahook_external": false,
 	"metahook_ragdoll": false,
+	"modid": 2,
 	"name": "tfc/models/player/civilian/civilian.mdl",
 	"preview": true,
 	"readme": false,

@@ -125,7 +125,7 @@
 			"type": 32
 		}
 	],
-	"date": 1452706310,
+	"date": 1780811526,
 	"events": [
 		{
 			"event": 1004,
@@ -671,6 +671,7 @@
 	"md5": "3ea4c9bb4705906c6b8967f4ba16be55",
 	"metahook_external": false,
 	"metahook_ragdoll": false,
+	"modid": 0,
 	"name": "c:\\rewolf/bandit.mdl",
 	"preview": true,
 	"readme": false,

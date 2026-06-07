@@ -200,7 +200,7 @@
 			"type": 16
 		}
 	],
-	"date": 1697363109,
+	"date": 1780811526,
 	"events": [
 		{
 			"event": 5004,
@@ -844,6 +844,7 @@
 	"md5": "163c77f735853e17759ae70e75c0ad3d",
 	"metahook_external": false,
 	"metahook_ragdoll": false,
+	"modid": 7,
 	"name": "gfl_m4_sopmod_white.mdl",
 	"preview": true,
 	"readme": false,
